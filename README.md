@@ -1,1 +1,1 @@
-# bmw-coding-options
+# BMW Coding Options
